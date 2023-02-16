@@ -1,1 +1,1 @@
-# Seedary
+![seedary](/res/seedary.png)
